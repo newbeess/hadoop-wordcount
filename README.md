@@ -5,9 +5,9 @@
 ####Only what you should do is set the configration in your IDE,like this:
 ![](/Image/wordcount_config_image.png)
 ####Config this three params: 
-#####Main class
-#####Program arguments
-#####Working directory(your own working directory)
+######Main class
+######Program arguments
+######Working directory(your own working directory)
 
 #####Any questions,write issues or pull requests . 
 ####Realy cool to learn together.
